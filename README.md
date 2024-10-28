@@ -35,40 +35,66 @@ Useful for analyzing if education level has an impact on attrition rates.
 
 #### 4. Top 5 Job Roles by Attrition
 A horizontal bar chart showing the job roles with the highest attrition:
+
 Laboratory Technician: 62
+
 Sales Executive: 57
+
 Research Scientist: 47
+
 Sales Representative: 33
+
 Human Resources: 12
+
 This helps identify roles where retention may be challenging.
 
 #### 5. Department-Wise Attrition
 A pie chart displaying the percentage of attrition in each department:
+
 Sales: 39%
+
 R&D: 56%
+
 HR: 5%
+
 Provides insights into departments with the highest turnover, enabling HR to address issues specific to these areas.
 
 #### 6. Attrition by Age Group
+
 A bar chart categorizing attrition by age groups:
+
 25 - 34: Highest attrition at 120
+
 35 - 44: 40 attritions
+
 45 - 54: 22 attritions
+
 Over 55: 15 attritions
+
 Under 25: 40 attritions
+
 Highlights which age groups experience the most attrition, which can inform retention strategies for specific age brackets.
 
 #### 7. Attrition by Marital Status
+
 Visual breakdown of attrition by marital status:
+
 Single: 120
+
 Married: 84
+
 Divorced: 33
+
 Shows whether marital status may be correlated with attrition.
 
 #### 8. Filter Panel
+
 Dynamic filter panel allowing users to filter data by:
+
 Education Field: Human Resources, Life Sciences, Marketing, Medical, Other, Technical Degree.
+
 Department: HR, R&D, Sales.
+
 Enhances interactivity and enables deep-dive analysis of specific segments.
 
 ### 🛠 Tools Used
