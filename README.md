@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/ed5b2fdd-8fe8-4caa-b0f6-df40e0845877
+![previewOne](https://github.com/user-attachments/assets/250ee74c-0a92-43be-a344-41f75ff1796c)
 # 📊 HR-Attrition-Dashboard
 An interactive HR Attrition Dashboard created in Excel to analyze and visualize employee attrition trends across various dimensions. This dashboard provides actionable insights into factors like gender, education level, job role, department, age group, and marital status that contribute to employee turnover.
 
